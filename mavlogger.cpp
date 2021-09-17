@@ -6,7 +6,7 @@
 *	If you are using udp the connection might be 127.0.0.1:14540
 *	If you use "udp://0.0.0.0:14540", 
 *	it should attempt to connect to an open udp connection port 14540
-*	If you need Help Contact Ricky! 
+*	 
 */
 #include <stdio.h>
 #include <fstream>
